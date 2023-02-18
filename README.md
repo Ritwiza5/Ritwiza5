@@ -1,3 +1,4 @@
+[!MasterHead](https://www.canva.com/design/DAFa7kJfUDY/AB1df30wKfedlubfVJ7L4w/edit?utm_content=DAFa7kJfUDY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 # 💫 About Me:
 🔭 I’m currently working on Zomato clone<br>🌱 I’m currently learning ReactJs|Figma <br>👯 I’m looking to collaborate on React Projects<br>📫 How to reach me ritwiza2002@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1ayUTnbwsmvFcE4hmzWbukx2rtsQ6SKWU/view?usp=drivesdk<br>⚡ Fun fact I love self talk
 
