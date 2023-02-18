@@ -1,5 +1,8 @@
-[!MasterHead](https://www.canva.com/design/DAFa7kJfUDY/eakHvwSkFRf1c23z2QTXiw/view?utm_content=DAFa7kJfUDY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-# 💫 About Me:
+![Blue Gold Rustic Artisinal Remote Graduation Banner-compressed](https://user-images.githubusercontent.com/106557993/219897682-83a1b7d4-f7aa-4e9c-ab6f-4d398ae7be3e.png)
+
+<h1 align="center">Hi 👋, I'm Ritwiza Tomar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 🔭 I’m currently working on Zomato clone<br>🌱 I’m currently learning ReactJs|Figma <br>👯 I’m looking to collaborate on React Projects<br>📫 How to reach me ritwiza2002@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1ayUTnbwsmvFcE4hmzWbukx2rtsQ6SKWU/view?usp=drivesdk<br>⚡ Fun fact I love self talk
 
 
