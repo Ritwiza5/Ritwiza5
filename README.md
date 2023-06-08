@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ritwiza Tomar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-🔭 I’m currently working on Zomato clone<br>🌱 I’m currently learning ReactJs|Figma <br>👯 I’m looking to collaborate on React Projects<br>📫 How to reach me ritwiza2002@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1ayUTnbwsmvFcE4hmzWbukx2rtsQ6SKWU/view?usp=drivesdk<br>⚡ Fun fact I love self talk
+🔭 I’m currently working on DSA and Development<br>🌱 I’m currently learning ReactJs|Figma <br>👯 I’m looking to collaborate on React Projects<br>📫 How to reach me ritwiza2002@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1ayUTnbwsmvFcE4hmzWbukx2rtsQ6SKWU/view?usp=drivesdk<br>⚡ Fun fact I love self talk
 
 
 ## 🌐 Socials:
